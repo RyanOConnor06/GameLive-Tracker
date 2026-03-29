@@ -1,3 +1,11 @@
+/*
+ * GameLive Tracker
+ * Copyright (c) 2026 Ryan Patrick O'Connor. All rights reserved.
+ *
+ * Licensed for non-commercial use only, with required attribution.
+ * See LICENSE.md for full terms.
+ */
+
 import java.util.Scanner;
 
 public class Main {
